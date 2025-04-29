@@ -54,10 +54,6 @@ This repository contains the complete implementation and findings from a researc
 │   ├── c)PCA Feature Selection of Heart Failure.ipynb
 │   ├── d)Information Gain Feature Selection of Heart Failure.ipynb
 │   └── e)RFE Feature Selection of Heart Failure.ipynb
-├── models/
-│   └── saved_models/
-├── results/
-│   └── performance_metrics.csv
 ├── README.md
 └── requirements.txt
 ```
