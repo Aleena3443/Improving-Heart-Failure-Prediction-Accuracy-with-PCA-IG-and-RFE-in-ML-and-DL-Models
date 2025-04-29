@@ -49,11 +49,11 @@ This repository contains the complete implementation and findings from a researc
 ├── data/
 │   └── HeartFailure2Processed.csv
 ├── notebooks/
-│   ├── 1_preprocessing.ipynb
-│   ├── 2_model_no_fs.ipynb
-│   ├── 3_model_pca.ipynb
-│   ├── 4_model_ig.ipynb
-│   └── 5_model_rfe.ipynb
+│   ├── a)Preprocess of Heart Failure.ipynb
+│   ├── b)Without Feature Selection of Heart Failure.ipynb
+│   ├── c)PCA Feature Selection of Heart Failure.ipynb
+│   ├── d)Information Gain Feature Selection of Heart Failure.ipynb
+│   └── e)RFE Feature Selection of Heart Failure.ipynb
 ├── models/
 │   └── saved_models/
 ├── results/
